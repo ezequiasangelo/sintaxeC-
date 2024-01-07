@@ -1,5 +1,13 @@
 ﻿using Decola_tech.Models;
 
+//Atualizar um número para String 
+
+int inteiro = 5;
+string a =inteiro.ToString();
+
+Console.WriteLine(a);
+
+
 // Data e hora
 
 DateTime dataAtual = DateTime.Now;

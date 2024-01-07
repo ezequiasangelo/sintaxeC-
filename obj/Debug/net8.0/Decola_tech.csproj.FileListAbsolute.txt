@@ -12,3 +12,4 @@ C:\Users\Ezex\Desktop\Decola_tech\obj\Debug\net8.0\refint\Decola_tech.dll
 C:\Users\Ezex\Desktop\Decola_tech\obj\Debug\net8.0\Decola_tech.pdb
 C:\Users\Ezex\Desktop\Decola_tech\obj\Debug\net8.0\Decola_tech.genruntimeconfig.cache
 C:\Users\Ezex\Desktop\Decola_tech\obj\Debug\net8.0\ref\Decola_tech.dll
+C:\Users\Ezex\Desktop\Decola_tech\obj\Debug\net8.0\Decola_tech.sourcelink.json
