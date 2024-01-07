@@ -1,6 +1,6 @@
 ﻿using Decola_tech.Models;
 
-// Data e hora/segundos
+// Data e hora
 
 DateTime dataAtual = DateTime.Now;
 Console.WriteLine(dataAtual);
@@ -50,4 +50,5 @@ Pessoa p = new Pessoa();
 p.Nome = "Ezequias";
 p.Idade = 22;
 p.Apresentar();
+
 
