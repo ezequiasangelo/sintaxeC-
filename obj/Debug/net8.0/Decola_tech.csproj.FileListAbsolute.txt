@@ -1,0 +1,14 @@
+C:\Users\Ezex\Desktop\Decola_tech\bin\Debug\net8.0\Decola_tech.exe
+C:\Users\Ezex\Desktop\Decola_tech\bin\Debug\net8.0\Decola_tech.deps.json
+C:\Users\Ezex\Desktop\Decola_tech\bin\Debug\net8.0\Decola_tech.runtimeconfig.json
+C:\Users\Ezex\Desktop\Decola_tech\bin\Debug\net8.0\Decola_tech.dll
+C:\Users\Ezex\Desktop\Decola_tech\bin\Debug\net8.0\Decola_tech.pdb
+C:\Users\Ezex\Desktop\Decola_tech\obj\Debug\net8.0\Decola_tech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezex\Desktop\Decola_tech\obj\Debug\net8.0\Decola_tech.AssemblyInfoInputs.cache
+C:\Users\Ezex\Desktop\Decola_tech\obj\Debug\net8.0\Decola_tech.AssemblyInfo.cs
+C:\Users\Ezex\Desktop\Decola_tech\obj\Debug\net8.0\Decola_tech.csproj.CoreCompileInputs.cache
+C:\Users\Ezex\Desktop\Decola_tech\obj\Debug\net8.0\Decola_tech.dll
+C:\Users\Ezex\Desktop\Decola_tech\obj\Debug\net8.0\refint\Decola_tech.dll
+C:\Users\Ezex\Desktop\Decola_tech\obj\Debug\net8.0\Decola_tech.pdb
+C:\Users\Ezex\Desktop\Decola_tech\obj\Debug\net8.0\Decola_tech.genruntimeconfig.cache
+C:\Users\Ezex\Desktop\Decola_tech\obj\Debug\net8.0\ref\Decola_tech.dll
