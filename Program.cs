@@ -1,5 +1,95 @@
 ﻿using Decola_tech.Models;
 
+
+// Uso do "!" 
+
+bool choveu = false;
+bool EstaTarde = false;
+
+
+if(!choveu && !EstaTarde){
+
+    Console.WriteLine("Vou pedalar. ");
+
+}else{
+
+    Console.WriteLine("Não vou pedalar. ");
+
+}
+
+
+
+// Uso do "&&"
+
+
+bool presencaMinima = true;
+double mediaAprovacao = 7.5;
+
+if(presencaMinima && mediaAprovacao >=6){
+
+    Console.WriteLine("Media: "  + mediaAprovacao  + "\nAprovado com Sucesso!! ");
+
+}else{
+
+    Console.WriteLine("Reprovado. ");
+
+}
+
+
+
+
+// Uso do "OR"  
+
+
+bool MaiorIdade = false;
+bool AutorizacaoResponsavel = true;
+
+
+if(MaiorIdade || AutorizacaoResponsavel == true){
+ Console.WriteLine("Você pode viajar");
+}else{
+    Console.WriteLine("Não está autorizado. ");
+
+}
+
+
+
+// 
+
+int quantidadeEmEstoque = 20;
+int quantidadeCompra = 22;
+bool possivelVenda = quantidadeEmEstoque >= quantidadeCompra;
+
+Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque} ");
+Console.WriteLine($"Quantidade Comprar: {quantidadeCompra} ");
+Console.WriteLine($"è possivel realizar a venda? {possivelVenda} ");
+
+if(quantidadeCompra == 0)
+{
+    Console.WriteLine("Nenhuma Venda Realizada. ");
+
+}else if(possivelVenda){
+
+    Console.WriteLine( quantidadeCompra + "- Venda Realizada com Sucesso! " );
+
+}else{
+
+    Console.WriteLine("Sem Estoque...");
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 //Atualizar um número para String 
 
 int inteiro = 5;
